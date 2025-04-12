@@ -11,9 +11,9 @@ st.title("👩‍💻 Trình bày Đồ án Recommender System - Nhóm Tuấn - 
 #pdf_file_path = "Slide_Pro2_Recommend.pdf"
 
 st.markdown(
-    f"""
-    <iframe src="https://drive.google.com/file/d/14CidXMAq7pTaNciqTFMDUVI25kTStBpe/preview"
-    width="100%" height="900" allow="autoplay"></iframe>
+    """
+    <iframe src="https://docs.google.com/presentation/d/1BzLwaipvLELod0I-ePzcYPEsRPwS23ae/embed?start=false&loop=false&delayms=5000"
+    frameborder="0" width="100%" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     """,
     unsafe_allow_html=True
 )
